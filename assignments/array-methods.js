@@ -68,7 +68,6 @@ let allCaps = runners.map(x => x.first_name.toUpperCase());
 
 // ==== Challenge 3: Use .filter() ====
 // The large shirts won't be available for the event due to an ordering issue.  Get a list of runners with large sized shirts so they can choose a different size. Return an array named largeShirts that contains information about the runners that have a shirt size of L and log the result
-let largeShirts = runners.filter(x => x.shirt_size === 'L');
 
 //console.log(largeShirts);
 
