@@ -7,7 +7,7 @@ function myClosure(){
 		alert(`i am inside myClosure function ${myVar}`);
 	}
 }
-//myClosure();
+myClosure();
 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
